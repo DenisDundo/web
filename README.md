@@ -1,4 +1,5 @@
-###Тестирование веб-приложений https://demoshopping.ru/
+Тестирование веб-приложения https://demoshopping.ru/
+
 Тест - план
 https://docs.google.com/spreadsheets/d/1z7OjjbVb3cpLMAtUQpkQTsMgkOtiOi-eUzU1jVYIVNA/edit?gid=0#gid=0
 Чек-лист 
